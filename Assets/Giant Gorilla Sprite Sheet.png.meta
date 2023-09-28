@@ -1,0 +1,1283 @@
+fileFormatVersion: 2
+guid: 7688e17f2a7b75148bd25d4e9de97288
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Giant Gorilla Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 570
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e382bd9d027044fbc99b90bb2aee98
+      internalID: -1035319151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Gorilla Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 570
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7367e0123b07ee2419e36540ed4e4078
+      internalID: 1055839787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Gorilla Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 570
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140d641460be1a946812f36828adf6a4
+      internalID: -1272236105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Gorilla Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 570
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969ba088079a66b4f8c6fb2939b171af
+      internalID: 1846678533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Gorilla Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6400b5a5b4efaa240bafbd11efbf0bc7
+      internalID: 514409219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Gorilla Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 500
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d91b3bf7dcec2409d5c8f2a48db093
+      internalID: -1156130382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Gorilla Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 500
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c2e15511915aa40b60e13c3ba19d37
+      internalID: 625296068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Gorilla Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 500
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febf73a1afa732d4fb167abd1599cd0f
+      internalID: 2144166179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Gorilla Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 500
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4314a571803ba488da183245b5968c
+      internalID: 1824793064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Gorilla Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 500
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8fb2908d981cc479e84f6f5c895e01
+      internalID: -1892239120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Gorilla Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 430
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9efc372f8d2514daa3b978adc2bbc7
+      internalID: -1742762341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Gorilla Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 430
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064f07dbcf599794f93912dd0460e5dd
+      internalID: -1047562857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Gorilla Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 430
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7348eaf3e82634db55578cbab15a8b
+      internalID: 1095146911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Gorilla Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c35899a7581ad04ea6a09d05a9db5fd
+      internalID: -1750282384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Gorilla Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 360
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26611eccff95de24d9ba2f1971934cd1
+      internalID: 1905471419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Gorilla Sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 360
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64f3c3f4decfd549b6149306bfe475e
+      internalID: 1975632054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Gorilla Sprite Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 360
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7aa61c4d1a7644a9d71d891b798011
+      internalID: 864647404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Gorilla Sprite Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 360
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a0797f16eb67548ac1b7fd12098247
+      internalID: -1381858149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Gorilla Sprite Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 360
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c114b21faf8d549811537cd0cc6e71
+      internalID: 1434612559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Gorilla Sprite Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 290
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992637abdec25374bbec55d5044df1f9
+      internalID: 528129111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Gorilla Sprite Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 290
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f238d921321917d4a9d80978003d47a1
+      internalID: 879949458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Gorilla Sprite Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 290
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11565fff0a74dda4190f33c84d074566
+      internalID: -763692292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Gorilla Sprite Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 290
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95aa6e9bf03942348a0c5b6adc203d86
+      internalID: -879240721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Gorilla Sprite Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 290
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9459590ecec0efa4cbcb20408960caf2
+      internalID: -1522316035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Gorilla Sprite Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 290
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec11b7eb84bc404d96d40e1b0c9442c
+      internalID: 1706983678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Gorilla Sprite Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 290
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21588ac467421648a391527f7c06990
+      internalID: 2025910255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Gorilla Sprite Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 290
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6bbe1b9846dc054892ce676f53d899a
+      internalID: 312319192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Gorilla Sprite Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efbafd1c765b4b418a7d3a4a07908b9
+      internalID: 1333683179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Gorilla Sprite Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 220
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9b024ca8cae4848ac8982c6e2aa4f9
+      internalID: 1632814633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Gorilla Sprite Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 220
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b1e1ff95a391f49a9a7124c33583bc
+      internalID: 520000686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Gorilla Sprite Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 220
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64d8c123299e8d49964632bd8b4e42d
+      internalID: -78408571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Gorilla Sprite Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 220
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068f23e3738f9b24cabbe6671d9e7129
+      internalID: -353550518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Gorilla Sprite Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 220
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089ee8b2fc4d9644d9a5e7c27b530b09
+      internalID: 1066703921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Gorilla Sprite Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 220
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d37b38678c4e204283d116f0b3b0253
+      internalID: -47854176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Gorilla Sprite Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 220
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51aff402bd7749649b9277c62ab42d93
+      internalID: -882590947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Gorilla Sprite Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 220
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa63e8a0bd8b2f41807114e117798a2
+      internalID: 1320009151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Gorilla Sprite Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 220
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c232a90991c1c454594025eaf1c1102d
+      internalID: 1328760443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Gorilla Sprite Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ed840ad51f9644f8b57ced7afe078e
+      internalID: -1739953097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Gorilla Sprite Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 150
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63cae8f638186324a8c02ff2d948d137
+      internalID: -2132717078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Gorilla Sprite Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 150
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3872965ac033afa46a27f8d769c8d9d6
+      internalID: 1390990947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Gorilla Sprite Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 150
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962aad859a8808f45adb413ee083266d
+      internalID: 94008923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Gorilla Sprite Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b047530de7a47cb43bd887683a398148
+      internalID: -498111339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Gorilla Sprite Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 80
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2952f6bf14b9b469809b559aebc0c2
+      internalID: -1808328760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Gorilla Sprite Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 80
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f4a57ea2da57943b2a6384f90b04c0
+      internalID: -1224614978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Gorilla Sprite Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 80
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d28ebfa3a7f6b40a211082a7974335
+      internalID: 1341825903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Gorilla Sprite Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 80
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbc303ef99612547bd6cec2b25cf99c
+      internalID: 588852893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Gorilla Sprite Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183859ad037deac478501bd12c1f9288
+      internalID: 1521923140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Gorilla Sprite Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 10
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f02b79117fd674396a9054d6f70f1b
+      internalID: -981115377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Gorilla Sprite Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 10
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356dd541aaf3d6d42af92eec3c65f3d7
+      internalID: -2069197348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Gorilla Sprite Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 10
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1f70e42ca7bdf408e05775f8125adf
+      internalID: -1495720290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Gorilla Sprite Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 10
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe854627dbb17fe42bfa07f038a0162e
+      internalID: -1073361369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Giant Gorilla Sprite Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 10
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5507c60170e6de14fa4b2107d98316c2
+      internalID: 1846552480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -373, y: 256}
+      - {x: -372, y: 262}
+      - {x: -359, y: 285}
+      - {x: -353, y: 293}
+      - {x: -348, y: 293}
+      - {x: -344, y: 288}
+      - {x: -342, y: 282}
+      - {x: -337, y: 278}
+      - {x: -338, y: 268}
+      - {x: -339, y: 264}
+      - {x: -340, y: 260}
+      - {x: -340, y: 256}
+    - - {x: -337, y: 278}
+      - {x: -337, y: 278}
+      - {x: -337, y: 278}
+      - {x: -337, y: 278}
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Giant Gorilla Sprite Sheet_0: -1035319151
+      Giant Gorilla Sprite Sheet_1: 1055839787
+      Giant Gorilla Sprite Sheet_10: -1742762341
+      Giant Gorilla Sprite Sheet_11: -1047562857
+      Giant Gorilla Sprite Sheet_12: 1095146911
+      Giant Gorilla Sprite Sheet_13: -1750282384
+      Giant Gorilla Sprite Sheet_14: 1905471419
+      Giant Gorilla Sprite Sheet_15: 1975632054
+      Giant Gorilla Sprite Sheet_16: 864647404
+      Giant Gorilla Sprite Sheet_17: -1381858149
+      Giant Gorilla Sprite Sheet_18: 1434612559
+      Giant Gorilla Sprite Sheet_19: 528129111
+      Giant Gorilla Sprite Sheet_2: -1272236105
+      Giant Gorilla Sprite Sheet_20: 879949458
+      Giant Gorilla Sprite Sheet_21: -763692292
+      Giant Gorilla Sprite Sheet_22: -879240721
+      Giant Gorilla Sprite Sheet_23: -1522316035
+      Giant Gorilla Sprite Sheet_24: 1706983678
+      Giant Gorilla Sprite Sheet_25: 2025910255
+      Giant Gorilla Sprite Sheet_26: 312319192
+      Giant Gorilla Sprite Sheet_27: 1333683179
+      Giant Gorilla Sprite Sheet_28: 1632814633
+      Giant Gorilla Sprite Sheet_29: 520000686
+      Giant Gorilla Sprite Sheet_3: 1846678533
+      Giant Gorilla Sprite Sheet_30: -78408571
+      Giant Gorilla Sprite Sheet_31: -353550518
+      Giant Gorilla Sprite Sheet_32: 1066703921
+      Giant Gorilla Sprite Sheet_33: -47854176
+      Giant Gorilla Sprite Sheet_34: -882590947
+      Giant Gorilla Sprite Sheet_35: 1320009151
+      Giant Gorilla Sprite Sheet_36: 1328760443
+      Giant Gorilla Sprite Sheet_37: -1739953097
+      Giant Gorilla Sprite Sheet_38: -2132717078
+      Giant Gorilla Sprite Sheet_39: 1390990947
+      Giant Gorilla Sprite Sheet_4: 514409219
+      Giant Gorilla Sprite Sheet_40: 94008923
+      Giant Gorilla Sprite Sheet_41: -498111339
+      Giant Gorilla Sprite Sheet_42: -1808328760
+      Giant Gorilla Sprite Sheet_43: -1224614978
+      Giant Gorilla Sprite Sheet_44: 1341825903
+      Giant Gorilla Sprite Sheet_45: 588852893
+      Giant Gorilla Sprite Sheet_46: 1521923140
+      Giant Gorilla Sprite Sheet_47: -981115377
+      Giant Gorilla Sprite Sheet_48: -2069197348
+      Giant Gorilla Sprite Sheet_49: -1495720290
+      Giant Gorilla Sprite Sheet_5: -1156130382
+      Giant Gorilla Sprite Sheet_50: -1073361369
+      Giant Gorilla Sprite Sheet_51: 1846552480
+      Giant Gorilla Sprite Sheet_6: 625296068
+      Giant Gorilla Sprite Sheet_7: 2144166179
+      Giant Gorilla Sprite Sheet_8: 1824793064
+      Giant Gorilla Sprite Sheet_9: -1892239120
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
