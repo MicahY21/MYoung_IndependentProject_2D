@@ -8,5 +8,10 @@ public class DetectCollisions : MonoBehaviour
     {
         Destroy(CoryGorrillaPlayer.gameObject);
         Destroy(gameObject);
+
+
+
     }
+
+    
 }
