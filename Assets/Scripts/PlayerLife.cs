@@ -7,6 +7,9 @@ public class PlayerLife : MonoBehaviour
 {
     private Rigidbody2D rb;
     private Animator anim;
+    public ParticleSystem expsystem;
+
+    [SerializeField] private AudioSource deathSoundEffect;
     // Start is called before the first frame update
     private void Start()
     {
@@ -19,6 +22,7 @@ public class PlayerLife : MonoBehaviour
         if (collision.gameObject.CompareTag("Trap"))
         {
             Die();
+            expsystem.Play();
         }
     }
 
@@ -26,6 +30,7 @@ public class PlayerLife : MonoBehaviour
     {
         rb.bodyType = RigidbodyType2D.Static;
         anim.SetTrigger("Death");
+        deathSoundEffect.Play();
     }
 
     private void RestartLevel()
