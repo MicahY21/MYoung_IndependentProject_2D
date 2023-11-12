@@ -1158,13 +1158,13 @@ TextureImporter:
       name: Giant Gorilla Sprite Sheet_50
       rect:
         serializedVersion: 2
-        x: 265
-        y: 54
-        width: 47
-        height: 48
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+        x: 264
+        y: 0
+        width: 52
+        height: 27
+      alignment: 9
+      pivot: {x: 0.53125453, y: 0.5612073}
+      border: {x: 0, y: 0, z: 52, w: 25}
       outline: []
       physicsShape: []
       tessellationDetail: 0

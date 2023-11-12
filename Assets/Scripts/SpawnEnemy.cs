@@ -6,6 +6,7 @@ public class SpawnEnemy : MonoBehaviour
 {
     public GameObject[] EnemyPrefabs;
     private float xPosRange = 13;
+    public float speed = 15;
     // Start is called before the first frame update
     void Start()
     {

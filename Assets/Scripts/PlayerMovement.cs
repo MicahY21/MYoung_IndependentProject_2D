@@ -9,6 +9,8 @@ public class PlayerMovement : MonoBehaviour
     private SpriteRenderer sprite;
     private Animator anim;
     private float directionx = 0f;
+    public float speed = 50f;
+    
 
     [SerializeField] private LayerMask JumpGround;
 
@@ -82,6 +84,9 @@ public class PlayerMovement : MonoBehaviour
 
         anim.SetInteger("movstate", (int)movstate);
     }
+
+    
+
 
     private bool IsGrounded()
     {
