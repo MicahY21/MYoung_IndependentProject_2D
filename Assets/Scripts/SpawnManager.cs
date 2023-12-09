@@ -11,7 +11,11 @@ public class SpawnManager : MonoBehaviour
     public float spawnRadius = 5f;
     public float difficultyMultiplier = 1.1f;
     public float enemyLifetime = 10f;
-    
+    private float XPosRngLow = 1;
+    private float XPosRngHigh = 9;
+    private float YPosRngLow = 7;
+    private float YPosRngHigh = 9;
+
 
     private int currentWave = 1;
 
@@ -39,11 +43,12 @@ public class SpawnManager : MonoBehaviour
     {
         for(int i = 0; i < count; i++)
         {
-            float randomX = Random.Range(-spawnRadius, spawnRadius);
-            float randomY = Random.Range(-spawnRadius, spawnRadius);
+            float randomX = Random.Range(XPosRngLow, XPosRngHigh);
+            float randomY = Random.Range(YPosRngLow, YPosRngHigh);
 
             Vector2 randomSpawnPosition = new Vector2(randomX, randomY) + (Vector2)transform.position;
 
+            Debug.Log(randomSpawnPosition);
             GameObject enemy = Instantiate(enemyPrefab, randomSpawnPosition, Quaternion.identity);
         }
     }

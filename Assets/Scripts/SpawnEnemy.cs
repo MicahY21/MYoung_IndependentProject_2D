@@ -5,7 +5,8 @@ using UnityEngine;
 public class SpawnEnemy : MonoBehaviour
 {
     public GameObject[] EnemyPrefabs;
-    private float xPosRange = 13;
+    private float xPosRange = 9;
+    private float negativePosRange = 1;
     public float speed = 15;
     // Start is called before the first frame update
     void Start()
@@ -21,9 +22,9 @@ public class SpawnEnemy : MonoBehaviour
 
     void SpawnRandomEnemy()
     {
-        float randXPos = Random.Range(-xPosRange, xPosRange);
+        float randXPos = Random.Range(negativePosRange, xPosRange);
         int EnemyPrefabIndex = Random.Range(0, EnemyPrefabs.Length);
-        Vector3 randPos = new Vector3(randXPos, 7, 21);
+        Vector3 randPos = new Vector3(randXPos, 7, 0);
         Instantiate(EnemyPrefabs[EnemyPrefabIndex], randPos, EnemyPrefabs[EnemyPrefabIndex].transform.rotation);
     }
 }
