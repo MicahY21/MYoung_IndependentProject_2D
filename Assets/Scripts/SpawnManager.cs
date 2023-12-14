@@ -13,8 +13,8 @@ public class SpawnManager : MonoBehaviour
     public float enemyLifetime = 10f;
     private float XPosRngLow = 1;
     private float XPosRngHigh = 9;
-    private float YPosRngLow = 7;
-    private float YPosRngHigh = 9;
+    private float YPosRngLow = 13;
+    private float YPosRngHigh = 15;
 
 
     private int currentWave = 1;
